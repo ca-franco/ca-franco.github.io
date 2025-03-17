@@ -3,28 +3,22 @@ highlighter: rouge
 markdown: kramdown
 
 # Setup
-title: Borisov Vadim
+title: Franco Chalissery
 tagline: "A Personal Page"
-description: "Personal blog about new technologies, JAM Stack and Jekyll"
+description: "Personal blog about new technologies"
 url:
 baseurl: /
 
 # Custom vars
 socials_links:
-  - url: https://github.com/veax
+  - url: https://github.com/ca-franco
     class: fab fa-github
-  - url: https://www.facebook.com/profile.php?id=100001788716921
-    class: fab fa-facebook-square
-  - url: https://vk.com/id151991161
-    class: fab fa-vk
-  - url: https://www.instagram.com/veax/
-    class: fab fa-instagram
 
 # paginate: 5
 # paginate_path: 'blog.html'
 
 github:
-  repo: https://github.com/veax
+  repo: https://github.com/ca-franco
 
 plugins: [kramdown, rouge]
 
