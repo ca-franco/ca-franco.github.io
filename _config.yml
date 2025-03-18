@@ -13,9 +13,10 @@ baseurl: /
 socials_links:
   - url: https://github.com/ca-franco
     class: fab fa-github
-
-# paginate: 5
-# paginate_path: 'blog.html'
+  - url: https://linkedin.com/in/francochalissery
+    class: fab fa-linkedin
+  - url: https://x.com/fchaliss
+    class: fab fa-twitter
 
 github:
   repo: https://github.com/ca-franco
